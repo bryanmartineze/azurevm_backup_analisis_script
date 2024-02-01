@@ -278,13 +278,6 @@
               "version": "LinkItem/1.0",
               "style": "tabs",
               "links": [
-                // {
-                //   "id": "9ff9575a-e13e-442e-804e-bf1bcf6e7ada",
-                //   "cellValue": "selectedTab",
-                //   "linkTarget": "parameter",
-                //   "linkLabel": "Overview",
-                //   "subTarget": "Overview"
-                // },
                 {
                   "id": "3290f66e-1da0-4c4a-985d-e0d759322cb5",
                   "cellValue": "selectedTab",
